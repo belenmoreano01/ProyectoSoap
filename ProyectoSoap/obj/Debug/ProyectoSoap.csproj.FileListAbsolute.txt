@@ -1,0 +1,7 @@
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\bin\ProyectoSoap.dll.config
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\bin\ProyectoSoap.dll
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\bin\ProyectoSoap.pdb
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\obj\Debug\ProyectoSoap.csproj.AssemblyReference.cache
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\obj\Debug\ProyectoSoap.csproj.CoreCompileInputs.cache
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\obj\Debug\ProyectoSoap.dll
+C:\Users\belen\source\repos\ProyectoSoap\ProyectoSoap\obj\Debug\ProyectoSoap.pdb
